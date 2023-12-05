@@ -1,8 +1,8 @@
 Roles and Responsibilities
 
-my name is Satish and I have 11  years of experience in IT . 4+ experience in cloud and DevOps operations. I've been working as a DevOps
+my name is ***** and I have 11  years of experience in IT . 4+ experience in cloud and DevOps operations. I've been working as a DevOps
 engineer for lntmindtree for the past 4+ years.
-In my current role, i am working for a client Truist  I'm involved in a project focused on premium finance for Trustit.
+In my current role, i am working for a client ***  I'm involved in a project focused on premium finance for **.
 which is a related banking premium finance.
 
 Right now, the entire application has been deployed and running in the AWS cloud.
