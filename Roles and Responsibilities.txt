@@ -1,0 +1,21 @@
+Roles and Responsibilities
+
+my name is Satish and I have 11  years of experience in IT . 4+ experience in cloud and DevOps operations. I've been working as a DevOps
+engineer for lntmindtree for the past 4+ years.
+In my current role, i am working for a client Truist  I'm involved in a project focused on premium finance for Trustit.
+which is a related banking premium finance.
+
+Right now, the entire application has been deployed and running in the AWS cloud.
+ 
+With the help of automation tools, we can automate the end-to-end build and deployment of actives
+without any manual intervention.
+We follow Agile methodly using the Rally tool to manage our tasks
+> According to our customer requirements, we are doing the regular activities with the help of DevOps automation tools.
+I worked on different kinds of automation tools as per our application needs.
+> For source code management, we configured GIT and GITHUB repositories, and for CI/CD, we implemented a continuous integration tool called Jenkins.
+In order to build and deploy container-based applications, we use K8s and Docker.
+✔ In AWS, I worked on EC2, ELB, auto scaling, and some storage-related services such as S3 buckets' and EBS volumes.
+ And I also worked on some network-related services like VPC and Routh53.
+✔For monitoring purposes, we use Cloud Watch. With the help of Matrix and Alarms, we can continuously monitor and send notifications to users.
+
+
